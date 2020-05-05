@@ -17,3 +17,6 @@ friends = Subject.create(name: "Friends")
 kindness = Subject.create(name: "Kindness")
 random = Subject.create(name: "Random")
 romance = Subject.create(name: "Romance")
+
+
+Post.create(title:"First Post", description:"I'm your first post!", subject_id: random.id)
