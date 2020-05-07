@@ -2,7 +2,7 @@ class Api::V1::SubjectsController < ApplicationController
 
   def index
     subjects = Subject.all
-    render json: subjects
+    render json: SubjectSerializer.new(subjects)
   end
 
   def create
@@ -11,6 +11,7 @@ class Api::V1::SubjectsController < ApplicationController
       render json: subject, status: :accepted
     else
       render json: {errors: syllabus.errors.full_messages}, status: :unprocessible_entity
+    end
   end
 
   private
