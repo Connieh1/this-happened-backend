@@ -1,4 +1,4 @@
 class SubjectSerializer
   include FastJsonapi::ObjectSerializer
-  attributes 
+  attributes :name
 end
