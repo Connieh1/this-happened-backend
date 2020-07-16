@@ -10,7 +10,7 @@
 👤 **C.Hyman**
 
 * Github: [@Connieh1](https://github.com/Connieh1)
-* LinkedIn: [@Connie H](https://www.linkedin.com/in/connie-h-7011471b2/)
+* LinkedIn: [@Connie H](https://www.linkedin.com/in/conniehyman/)
 
 ## Show your support
 
