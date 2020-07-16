@@ -1,24 +1,20 @@
-# README
+<h1 align="center">Welcome to this-happened 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
+</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Simple JS Single Page App
 
-Things you may want to cover:
+## Author
 
-* Ruby version
+👤 **C.Hyman**
 
-* System dependencies
+* Github: [@Connieh1](https://github.com/Connieh1)
+* LinkedIn: [@Connie H](https://linkedin.com/in/Connie H)
 
-* Configuration
+## Show your support
 
-* Database creation
+Give a ⭐️ if this project helped you!
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
