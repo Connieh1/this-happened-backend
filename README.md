@@ -1,20 +1,28 @@
-<h1 align="center">Welcome to this-happened 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
-</p>
+<h1>This Happened</h1>
+A Single Page Application Where Users Can Post Things That Have Happened.
 
-> Simple JS Single Page App
+<h1>Usage</h1>
+Create and read posts by users.
 
-## Author
+<h1>Install</h1>
+Clone or download the app from Github. https://github.com/Connieh1/this-happened-backend
 
-👤 **C.Hyman**
+<h1>Built With</h1>
+<ul>
+	<li>
+		<a href="https://www.ruby-lang.org/en/"> Ruby </a> v 2.3.3
+	</li>
+	<li>
+		<a href="https://github.com/rails/rails"> Rails </a> v 5.2.3
+	</li>
+	<li>
+		<a href="https://getbootstrap.com/"> Bootstrap </a>
+	</li>
+  <li>
+		<a href=""> Javascript </a>
+	</li>
 
-* Github: [@Connieh1](https://github.com/Connieh1)
-* LinkedIn: [@Connie H](https://www.linkedin.com/in/conniehyman/)
+</ul>
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+<h1>License</h1>
+This project is licensed under the MIT License - see the <a href="LICENSE.md">LICENSE.md</a> file for details
