@@ -7,6 +7,8 @@ Create and read posts by users.
 <h1>Install</h1>
 Clone or download the app from Github. https://github.com/Connieh1/this-happened-backend
 
+Javascript Frontend: Rails Backend: https://github.com/Connieh1/this-happened-frontend
+
 <h1>Built With</h1>
 <ul>
 	<li>
