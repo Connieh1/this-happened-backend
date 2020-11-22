@@ -9,7 +9,7 @@ class Api::V1::PostsController < ApplicationController
     if post.save
       render json: PostSerializer.new(post), status: :accepted
     else
-      render json: {errors: post.errors.full_messages}, status: :unprocessible_entity
+      render json: {errors: post.errors.full_messages}, status: :unprocessable_entity
     end
   end
 
