@@ -4,6 +4,13 @@ A Single Page Application Where Users Can Post Things That Have Happened.
 <h1>Usage</h1>
 Create and read posts by users.
 
+<h1>URLs</h1>
+https://this-happened-backend.herokuapp.com/api/v1/posts
+https://this-happened-backend.herokuapp.com/api/v1/subjects
+
+<h1>Backend</h1>
+https://this-happened.netlify.app/
+
 <h1>Install</h1>
 Clone or download the app from Github. https://github.com/Connieh1/this-happened-backend
 
